@@ -1,0 +1,14 @@
+.sl{
+	font-size: 24px;
+	border: solid 4px darkgoldenrod;
+	color: darkgoldenrod;
+	background-color: darkslateblue;
+	padding: 5px;
+}
+.sl:hover{
+	border: solid 4px darkslateblue;
+	color: darkslateblue;
+	background-color: darkgoldenrod;
+	font-weight: bold;
+	box-shadow: 5px -5px darkslateblue;
+}

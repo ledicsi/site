@@ -1,0 +1,48 @@
+body{
+	background-color: burlywood;
+}
+p{
+	font-size: 30px;
+	}
+.p1{
+	color: salmon;
+	background-color: blanchedalmond;
+	}
+.p2{
+	font-family: sans-serif;
+}
+.p3{
+	font-family: Georgia, Times, "Times New Roman",  serif;
+}
+.p4 {
+font-family: "Lucida Console", Courier, monospace;}
+.p5 {
+font-family: cirsive
+}
+.p6 { 
+	font-family: fantasy;
+}	
+.p7 {
+font-family: "Rubik Glitch", system-ui;
+}
+.p8 {
+	font-family: "Rubik Moonrocks", sans-serif;
+}
+	.p9{
+	font-family: "Rubik Glitch Pop", system-ui;
+}
+.p10{
+font-family: "Rubik Bubbles", system-ui;
+}
+
+.p11{
+font-family: "Lobster", sans-serif;
+}
+.p12 { 
+	font-weight: 700;
+}
+.p13 {
+font-style: italic;
+	}
+	.p14 {
+		text-decoration: underline;

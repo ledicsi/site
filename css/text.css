@@ -1,0 +1,28 @@
+h1{
+	font-weight: normal;
+font-family: 'Linux Libertine','Georgia','Times','Source Serif Pro',serif;
+text-align: center;
+letter-spacing: 2px;
+}
+h2{
+	font-weight: normal;
+	text-align: right;
+	}
+	p{
+		text-align: qustify;
+		text-indent: 24px;
+		line-height: 24px;}
+
+		.fr{
+			float: right ;
+			border:solid 2px lightgrey;
+			}
+			a {
+text-decoration:underline;
+			}
+			a: active {
+				color: lightgrey;
+				}
+					a:visited {  
+					color:limegreen;
+				}

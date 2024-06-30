@@ -1,0 +1,34 @@
+body{
+	background-color: lightsalmon;
+}
+p{
+	font-size: 50px;
+	color: lime;
+	text-align: center;
+}
+.in1{
+	display: block;
+	margin-bottom: 20px;
+height: 1cm;
+font-size: 24px;
+font-family: cursive;
+color: darkviolet;
+}
+.s1,.s2{
+	font-size: 24px;
+}
+.s2{
+color: cadetblue;
+}
+.in3{
+	width: 30px;
+	height: 30px;
+	background-color: lightpink;
+}
+.in4{
+	width: 150px;
+	height: 50px;
+	font-size: 24px;
+	color: darkorchid;
+	border: dashed 5px darkorchid;
+}
